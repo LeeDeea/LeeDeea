@@ -1,6 +1,6 @@
 嘀嘀嘀
 
--[Web-share](https://leedeea.github.io/LeeDeea/#/3D/Card-title-cloud)
+- [Web-share](https://leedeea.github.io/LeeDeea/#/3D/Card-title-cloud)
 
 ## 个人开发vscode常用插件
 
