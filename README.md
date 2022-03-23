@@ -1,6 +1,10 @@
 嘀嘀嘀
 
+<<<<<<< HEAD
 - [Web-share](https://leedeea.github.io/LeeDeea/#/3D/Card-title-cloud)
+=======
+- [Web-share](https://leedeea.github.io/LeeDeea/#/3D/Card-title-cloud)分享网站，网速比较慢
+>>>>>>> 8860e03f4073029f449913cc359b311dc9036437
 
 ## 个人开发vscode常用插件
 
