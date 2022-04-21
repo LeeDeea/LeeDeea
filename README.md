@@ -1,6 +1,6 @@
 嘀嘀嘀
 
-- [Web-share](https://leedeea.github.io/LeeDeea/#/3D/Card-title-cloud)分享网站，网速比较慢情况下请耐心等待
+- [Web-share](https://leedeea.github.io/LeeDeea/#/)分享网站，网速比较慢情况下请耐心等待
 
 ## 个人开发vscode常用插件
 
