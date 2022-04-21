@@ -15,3 +15,7 @@
 - [ThreeJs中文网](http://www.yanhuangxueyuan.com/) 郭隆邦的技术博客，中文版ThreeJs译版网站
 - [D3](https://www.d3js.org.cn/) 链式调用，数据驱动，数据展示框架
 - [codepng](https://www.codepng.app/) 代码输出为png图片
+
+## 有趣的网站
+- [Yandex Translate](https://translate.yandex.com/) 文字转Emoji的翻译网站
+- [Neal.fun](https://neal.fun/ambient-chaos/) 有很多自定义的选项来模拟环境音的一个网站
