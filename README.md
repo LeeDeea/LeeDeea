@@ -19,3 +19,17 @@
 ## 有趣的网站
 - [Yandex Translate](https://translate.yandex.com/) 文字转Emoji的翻译网站
 - [Neal.fun](https://neal.fun/ambient-chaos/) 有很多自定义的选项来模拟环境音的一个网站
+
+## 快速样式网站
+- [Neumorphism](https://neumorphism.io/) 通过调节可生成拟物按钮
+- [mycolor.space](https://mycolor.space/gradient) 快速生成渐变背景
+- [webgradients](https://webgradients.com/) 预览渐变背景样式，可直接复制
+- [uigradients](https://uigradients.com/) 预览渐变背景样式，可直接复制（预览时比上面的切换更快！）
+- [gradienta](https://gradienta.io/) 纯css实现的背景，可直接复制
+- [cssgradient](https://cssgradient.io/) 可以通过拖拽条生成渐变背景
+- [animista](https://animista.net/) 常见的动画样式
+- [svgsilh](https://svgsilh.com/) 分享一些svg图片提供下载
+- [codepen](https://codepen.io/) 在线编辑样式以及寻找灵感
+- [alteredqualia](https://alteredqualia.com/) 在线预览WebGl的分享作品
+- [coolbackgrounds](https://coolbackgrounds.io/) 作者制作了一些背景样式，可以直接下载
+
