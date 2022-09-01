@@ -33,3 +33,7 @@
 - [alteredqualia](https://alteredqualia.com/) 在线预览WebGl的分享作品
 - [coolbackgrounds](https://coolbackgrounds.io/) 作者制作了一些背景样式，可以直接下载
 
+## 国外特效网站
+- [advanced.team](https://advanced.team/)
+- [innovations.vareximaging](https://innovations.vareximaging.com/)
+- [WebGL-Fluid-Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/)
